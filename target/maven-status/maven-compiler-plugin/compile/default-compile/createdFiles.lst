@@ -1,0 +1,8 @@
+DAO/StudentDAO1.class
+model/Courses.class
+model/GradeScore.class
+DAOImp/StudentDAOimp.class
+model/Professor.class
+com/mycompany/schooladmin/SchoolAdmin.class
+model/Student.class
+model/Programs.class
